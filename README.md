@@ -1,4 +1,4 @@
-## [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400)
+## Microsoft.Source Newsletter
 
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
@@ -6,13 +6,13 @@ Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/
 
 This repo provides content to get started with API development & learn some advanced tools with Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic API development content through in-person and online channels. Feel free to leverage the material to learn and to share content in any community engagements/meetups and please tweet with **hashtag - #AIAugust** if leveraging the content or sharing this content with the community. 
 
-## Tutorials & Workshops
+### Tutorials & Workshops
 
-Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
+* Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
 
-Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
+* Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
 
-Blazor app workshop: In this workshop, you'll learn to build a complete Blazor app and learn about Blazor framework - [Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
+* Blazor app workshop: In this workshop, you'll learn to build a complete Blazor app and learn about Blazor framework - [Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
 
 ### API Development - Videos
 
