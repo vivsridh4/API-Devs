@@ -6,6 +6,13 @@ Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/
 
 This repo provides content to get started with API Development & learn some advanced tools with Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic API development content through in-person and online channels. Feel free to leverage the material to learn and to share content in any community engagements/meetups and please tweet with **hashtag - #AIAugust** if leveraging the content or sharing this content with the community. 
 
+## Tutorials & Workshops
+
+Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Link](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
+
+Move to serverless with Azure Functions - [Refactor Node.js and Express APIs](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
+
+
 ### API Development - Videos
 
 * Python for Begineers - [View Episodes](https://channel9.msdn.com/Series/Intro-to-Python-Development)
