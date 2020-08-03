@@ -8,10 +8,11 @@ This repo provides content to get started with API Development & learn some adva
 
 ## Tutorials & Workshops
 
-Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Link](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
+Publish your APIs in Azure API Management: Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Link](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
 
-Move to serverless with Azure Functions - [Refactor Node.js and Express APIs](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
+Move to serverless with Azure Functions: Refactor Node.js and Express APIs -[Link](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
 
+Blazor app workshop: In this workshop, you'll learn to build a complete Blazor app and learn about Blazor framework features along the way - [Link](https://github.com/dotnet-presentations/blazor-workshop/)
 
 ### API Development - Videos
 
