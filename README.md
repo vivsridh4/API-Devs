@@ -9,27 +9,19 @@ This repo provides content to get started with API development & learn some adva
 ### Tutorials & Workshops
 
 * Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
-
 * Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
-
 * Blazor app workshop: In this workshop, you'll learn to build a complete Blazor app and learn about Blazor framework - [Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
 
 ### API Development - Videos
 
 * Learn how to create a holiday selfie with Azure Cognitive Services and Microsoft Face API - [Video](https://www.youtube.com/watch?v=WQRK0UbNKOo)
-
 * Ryan Nowak explains what endpoint routing is, what it can do, and how you can use it - [Video](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Endpoint-Routing)
-
 * Learn best practices from serverless community leaders in this Microsoft Build session - [Video](https://mybuild.microsoft.com/sessions/e477304a-6de3-4714-a1f3-cc955da82b1a?source=sessions)
 
 ### API Development E-Books
 
-#### Dive into e-books:
-
 * How to create well-designed web APIs - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/Azure_API-Design_Guide_eBook.pdf)
-
 * Learn how you can use Microsoft Azure Cognitive Services to infuse your apps, websites, and bots with intelligence using just a few simple lines of code and without a large data science team - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
-
 * Learn how to adopt a thoughtful and well-planned approach to building APIs, and how to build a modern API architecture to support client applications using APIs and microservice - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
 
 ### API Learning Modules & Serverless Collection
