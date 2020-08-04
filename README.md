@@ -12,7 +12,7 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 
 ### Tutorials & Workshops
 
-* Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal, which is customizable, lightweight, and intuitive - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
+* Mike Budzynski and Scott Hanselman explain how to easily publish APIs with the Azure API Management developer portal - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
 * Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
 * Blazor app workshop: In this workshop, you'll learn to build a complete Blazor app and learn about Blazor framework - [Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
 
