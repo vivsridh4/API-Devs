@@ -16,6 +16,10 @@ This repo provides content to get started with API development & learn some adva
 
 ### API Development - Videos
 
+* Learn how to create a holiday selfie with Azure Cognitive Services and Microsoft Face API - [Video](https://www.youtube.com/watch?v=WQRK0UbNKOo)
+
+* Ryan Nowak from the ASP.NET team explains what endpoint routing is, what it can do, and how you can use it - [Video](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Endpoint-Routing)
+
 * Python for Begineers - [View Episodes](https://channel9.msdn.com/Series/Intro-to-Python-Development)
 * Introduction to Machine Learning - [Damian Brady talk at DDD conference](https://aka.ms/HN/ml)
 
