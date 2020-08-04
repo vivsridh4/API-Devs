@@ -20,15 +20,17 @@ This repo provides content to get started with API development & learn some adva
 
 * Ryan Nowak from the ASP.NET team explains what endpoint routing is, what it can do, and how you can use it - [Video](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Endpoint-Routing)
 
-* Python for Begineers - [View Episodes](https://channel9.msdn.com/Series/Intro-to-Python-Development)
-* Introduction to Machine Learning - [Damian Brady talk at DDD conference](https://aka.ms/HN/ml)
+* Learn best practices from serverless community leaders in this Microsoft Build session - [Video](https://mybuild.microsoft.com/sessions/e477304a-6de3-4714-a1f3-cc955da82b1a?source=sessions)
 
-### E-Books
+### API Development E-Books
 
-Dive into e-books:
+#### Dive into e-books:
 
-* Build your first intelligent app with a guide from O’Reilly [Download ebook](https://azure.microsoft.com/en-in/resources/building-intelligent-apps-with-cognitive-apis/?cdn=disable)
-* Packt: Principles of Data Science [Download ebook](https://azure.microsoft.com/en-in/resources/principles-of-data-science/)
+* How to create well-designed web APIs - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/Azure_API-Design_Guide_eBook.pdf)
+
+* Learn how you can use Microsoft Azure Cognitive Services to infuse your apps, websites, and bots with intelligence using just a few simple lines of code and without a large data science team - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
+
+* Learn how to adopt a thoughtful and well-planned approach to building APIs,  and how to build a modern API architecture to support client applications using APIs and microservice - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
 
 ### API Learning Modules & Serverless Collection
 
