@@ -2,6 +2,8 @@
 
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
+
+
 ## API Learning Materials - Bill of Materials (BoM)
 
 This repo provides content to get started with API development & learn some advanced tools with Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic API development content through in-person and online channels. Feel free to leverage the material to learn and to share content in any community engagements/meetups and please tweet with **hashtag - #APIAugust** if leveraging the content or sharing this content with the community. 
@@ -24,17 +26,9 @@ This repo provides content to get started with API development & learn some adva
 * Intelligent apps and cognitive APIs development - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
 * APIs + microservices guide - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
 
-### API Learning Modules & Serverless Collection
+### Serverless Learning Collection
 
-* Introduction to Azure Machine Learning - [Link](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/)
-* Train a machine learning model with Azure Machine Learning - [Link](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/)
-* Understanding Azure Machine Learning with concepts - [Link](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace)
-
-### API Development code Examples
-
-* Wine Not Build a Bot? - [Code Sample](https://dev.to/azure/wine-not-build-a-bot-32fk)
-* Building translator app with code sample - [Code Sample](https://dev.to/azure/tutorial-use-azure-cognitive-services-to-build-a-translator-app-hosted-on-azure-app-service-4pp1)
-* Translating Speech in real time - [Code Sample](https://aka.ms/HN/AzS2T)
+Serverless learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e)
 
 
 
