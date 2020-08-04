@@ -21,8 +21,8 @@ This repo provides content to get started with API development & learn some adva
 ### API Development E-Books
 
 * How to create well-designed web APIs - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/Azure_API-Design_Guide_eBook.pdf)
-* Learn how you can use Microsoft Azure Cognitive Services to infuse your apps, websites, and bots with intelligence using just a few simple lines of code and without a large data science team - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
-* Learn how to adopt a thoughtful and well-planned approach to building APIs, and how to build a modern API architecture to support client applications using APIs and microservice - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
+* Intelligent apps and cognitive APIs development - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
+* APIs + microservices guide - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
 
 ### API Learning Modules & Serverless Collection
 
