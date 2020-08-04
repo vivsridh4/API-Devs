@@ -28,10 +28,6 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 * Intelligent apps and cognitive APIs development - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
 * APIs + microservices guide - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
 
-### Serverless Learning Collection
-
-Serverless learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e)
-
 
 
 
