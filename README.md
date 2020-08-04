@@ -2,7 +2,7 @@
 
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
-## API Learning Materials - Bill of Materials (BoM) **#APIAugust**
+## API Learning Materials - **#APIAugust**
 
 This repo provides content to get started with API development & learn some advanced tools with Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic API development content through in-person and online channels. Feel free to leverage the material to learn and to share content in any community engagements/meetups and please tweet with **hashtag - #APIAugust** if leveraging the content or sharing this content with the community. 
 
