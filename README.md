@@ -28,7 +28,7 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 * Intelligent apps and cognitive APIs development - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
 * APIs + microservices guide - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf?wt.mc_id=AID3018158_QSG_453536&ocid=AID3018158_QSG_453536)
 
-### Code Samples
+### API Development Code Samples
 
 Code samples for API development & Azure functions - [code sample](https://docs.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-api-management%2Cazure-functions)
 
