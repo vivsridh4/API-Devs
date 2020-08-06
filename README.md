@@ -8,7 +8,7 @@ This repo provides content to get started with API development & learn some adva
 
 ### Serverless Learning Collection
 
-Serverless progamming model learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e)
+Serverless progamming model learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e?wt.mc_id=AID3018158_QSG_SCL_453306&ocid=AID3018158_QSG_SCL_453306)
 
 ### Tutorials & Workshops
 
@@ -24,9 +24,9 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 
 ### API Development E-Books
 
-* How to create well-designed web APIs - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/Azure_API-Design_Guide_eBook.pdf)
+* How to create well-designed web APIs - [E-Book](http://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/azure_api-design_guide_ebook.pdf?wt.mc_id=AID3018158_QSG_453540&ocid=AID3018158_QSG_453540)
 * Intelligent apps and cognitive APIs development - [E-Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcmrolgD/original)
-* APIs + microservices guide - [E-Book](https://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/Azure_API-Microservices_eBook.pdf)
+* APIs + microservices guide - [E-Book](http://azure.microsoft.com/mediahandler/files/resourcefiles/apis-microservices-ebook/azure_api-microservices_ebook.pdf?wt.mc_id=AID3018158_QSG_453536&ocid=AID3018158_QSG_453536)
 
 ### Code Samples
 
