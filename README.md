@@ -10,7 +10,7 @@ This repo provides content to get started with API development & learn some adva
 
 Serverless progamming model learning collection by Vivek Sridhar - [Collection](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/56juwyn7w722e?wt.mc_id=AID3018158_QSG_SCL_453306&ocid=AID3018158_QSG_SCL_453306)
 
-### Tutorials & Workshops (hands on changed)
+### Tutorials & Workshops (hands on changed - main readme)
 
 * Mike Budzynski and Scott Hanselman explain how to publish APIs with the Azure API Management developer portal - [Tutorial](https://www.youtube.com/watch?v=9cmyh3J9Lvc&t=210s)
 * Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
