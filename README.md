@@ -32,6 +32,8 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 
 Code samples for API development & Azure functions - [code sample](https://docs.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-api-management%2Cazure-functions)
 
+### Local Content ()
+
 
 
 
